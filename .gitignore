@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.local.md
+*.local.json
+*.local.yaml
+*.local.yml
+private/
+local-library/
+feedback/
+dist/
